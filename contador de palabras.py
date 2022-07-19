@@ -15,3 +15,4 @@ else:
     
 print (len (lista1))
 print (len (lista1), (frase1))
+print
