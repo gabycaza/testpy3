@@ -16,6 +16,8 @@ while palabra!= "aloha" and palabra !="bye":
         no_palindromos +=1
 else:
     print("fin del programa")
+    no_palindromos -=1
+    palabras_ingresadas -=1
     
 print("total de palabras fue: ",palabras_ingresadas)
 print("total de palindromos fue: ",palindromos)
