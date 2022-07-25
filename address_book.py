@@ -29,3 +29,4 @@ with open('adresses.csv', 'w') as csvfile:
                      'fecha_registro'})
 
 print ("datos insertados")
+
