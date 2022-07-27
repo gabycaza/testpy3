@@ -51,11 +51,12 @@ registro).
 
 # Integrantes:
 
-1. Integrante 1
+1. CINTIA ZELENTCHER
 2. Integrante 2
-3. Integrante 3
+3.  Eial Srur
 4. Integrante 4
-5. Integrante 5
+5. Gaston Hendler
+
 
 # Correcciones:
 
