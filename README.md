@@ -53,10 +53,10 @@ registro).
 
 1. CINTIA ZELENTCHER
 2. Integrante 2
-3.  Eial Srur
-4. Integrante 4
-5. Gaston Hendler
-
+3. Gaston Hendler
+4. IOSEF LANIADO
+5. Integrante 4
+6. Gaston Hendler
 
 # Correcciones:
 
