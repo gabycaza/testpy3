@@ -52,7 +52,7 @@ registro).
 # Integrantes:
 
 1. CINTIA ZELENTCHER
-2. Integrante 2
+2. EIAL SRUR
 3. Gaston Hendler
 4. IOSEF LANIADO
 5. Integrante 4
