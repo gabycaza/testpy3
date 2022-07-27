@@ -54,8 +54,7 @@ registro).
 2. EIAL SRUR
 3. Gaston Hendler
 4. IOSEF LANIADO
-5. Integrante 4
-6. Gaston Hendler
+5. GABRIEL CAZACHKOFF
 # Correcciones:
 
 - Ejercicio __'palindromos'__: El codigo no deberia contar la ultima frase de salida "bye" o "aloha"
