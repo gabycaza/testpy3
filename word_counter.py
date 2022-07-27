@@ -1,6 +1,7 @@
 contador_de_frases = 0
-frase = input("ingrese una frase     ")
 palabras_totales = 0
+
+frase= input ("ingrese una frese    ")
 
 cantidad_de_palabras = frase.count (' ')+1
 contador_de_frases = contador_de_frases +1
