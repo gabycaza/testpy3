@@ -50,12 +50,20 @@ registro).
   - Nombre del archivo de texto: addresses.csv
 
 # Integrantes:
+
 1. CINTIA ZELENTCHER
 2. EIAL SRUR
 3. GASTON HENDLER
 4. IOSEF LANIADO
 5. GABRIEL CAZACHKOFF
+
 # Correcciones:
 
-- Ejercicio __'palindromos'__: El codigo no deberia contar la ultima frase de salida "bye" o "aloha"
-- Falta completar ejercicio 'contador de palabras'
+- Ejercicio __'contador de palabras'__: Debe corregir ya que no devuelve bien los valores, por ejemplo, si ingreso las siguientes frases: "hola mundo" y "hola que tal", deberia imprimir al final:
+
+```
+la cantidad de palabras totales son   5 palabras
+la cantidad de frases totales son    2 frases
+```
+
+No debe contar la frase clave de salida en la suma final

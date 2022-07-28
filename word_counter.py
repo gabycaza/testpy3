@@ -1,7 +1,7 @@
 contador_de_frases = 0
 palabras_totales = 0
 
-frase= input ("ingrese una frese    ")
+frase= input ("ingrese una frase: ")
 
 cantidad_de_palabras = frase.count (' ')+1
 contador_de_frases = contador_de_frases +1
@@ -12,7 +12,7 @@ f = open ("frases.txt",'a')
 f.write(frase+'\n')
 
 while frase != "the end":
-    frase = input ("ingrese una frase:    ")
+    frase = input ("ingrese una frase: ")
     
     cantidad_de_palabras = frase.count (' ')+1
     contador_de_frases = ( contador_de_frases)+1
