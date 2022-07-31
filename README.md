@@ -59,11 +59,4 @@ registro).
 
 # Correcciones:
 
-- Ejercicio __'contador de palabras'__: Debe corregir ya que no devuelve bien los valores, por ejemplo, si ingreso las siguientes frases: "hola mundo" y "hola que tal", deberia imprimir al final:
-
-```
-la cantidad de palabras totales son   5 palabras
-la cantidad de frases totales son    2 frases
-```
-
-No debe contar la frase clave de salida en la suma final
+- Ejercicio __'contador de palabras'__: Debe cambiar el enfoque al usar el while, ya que a pesar de ingresar la palabra clave, se ejecuta primero lo que esta dentro antes de salir del while.
